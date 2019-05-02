@@ -16,6 +16,9 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="ExtractClass">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
   <action id="GotoLine" />
   <action id="MethodDown" />
   <action id="MethodUp" />
