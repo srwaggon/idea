@@ -1,6 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
-    <EXCLUDED_PACKAGE NAME="org.assertj.core.api.Java6Assertions.assertThat" />
-  </component>
-</application>

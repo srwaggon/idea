@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="org.assertj.core.api.Java6Assertions.assertThat" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
   </component>
