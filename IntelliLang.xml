@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>Monster.toString (digibits)</display-name>
+      <place><![CDATA[psiMethod().withName("toString").withParameters().definedInClass("digibits.Monster")]]></place>
+    </injection>
+  </component>
+</application>
