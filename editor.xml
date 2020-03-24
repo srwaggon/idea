@@ -7,7 +7,7 @@
     <EXCLUDED_PACKAGE NAME="org.hamcrest" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_SIZE" value="12" />
   </component>
   <component name="EditorSettings">
     <option name="IS_WHITESPACES_SHOWN" value="true" />
