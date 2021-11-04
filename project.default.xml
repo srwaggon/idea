@@ -1,28 +1,15 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CheckStyle-IDEA">
-        <option name="configuration">
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
           <map>
-            <entry key="checkstyle-version" value="8.44" />
-            <entry key="copy-libs" value="true" />
-            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
-            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
-            <entry key="scan-before-checkin" value="false" />
-            <entry key="scanscope" value="JavaOnly" />
-            <entry key="suppress-errors" value="false" />
+            <entry key="D:/Users/Samuel/workspace/mocha" value="PREVIEW" />
           </map>
         </option>
       </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
       </component>
     </defaultProject>
   </component>
