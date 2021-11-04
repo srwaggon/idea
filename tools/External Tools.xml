@@ -1,0 +1,30 @@
+<toolSet name="External Tools">
+  <tool name="Open in cgit" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="bash" />
+      <option name="PARAMETERS" value="-c &quot;open $(echo 'https://cgit.twitter.biz/source/tree/'$PantsFilePathRelativeToBuildRoot$'#n'$SelectionStartLine$) | sed &quot;s@\\.\\.\\/@@g&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Copy cgit link" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="bash" />
+      <option name="PARAMETERS" value="-c &quot;echo 'https://cgit.twitter.biz/source/tree/$PantsFilePathRelativeToBuildRoot$#n$SelectionStartLine$' | sed &quot;s@\\.\\.\\/@@g&quot; | pbcopy&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Open in sourcegraph" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="bash" />
+      <option name="PARAMETERS" value="-c &quot;open $(echo 'https://sourcegraph.twitter.biz/git.twitter.biz/source/-/blob/'$PantsFilePathRelativeToBuildRoot$'#L'$SelectionStartLine$-$SelectionEndLine$) | sed &quot;s@\\.\\.\\/@@g&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Copy sourcegraph link" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="bash" />
+      <option name="PARAMETERS" value="-c &quot;echo 'https://sourcegraph.twitter.biz/git.twitter.biz/source/-/blob/$PantsFilePathRelativeToBuildRoot$#L$SelectionStartLine$-$SelectionEndLine$' | sed &quot;s@\\.\\.\\/@@g&quot; | pbcopy&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

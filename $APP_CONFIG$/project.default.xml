@@ -1,0 +1,10 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="ThriftCompiler">
+        <compilers />
+      </component>
+    </defaultProject>
+  </component>
+</application>
