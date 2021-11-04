@@ -1,12 +1,72 @@
 <application>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
       <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/srwaggon/mocha" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:srwaggon/digibits.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/srwaggon/digibits.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Greymerk/minecraft-roguelike" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.metromile.com:7999/met/bundling-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.metromile.com:7999/met/mms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.metromile.com:7999/met/domain.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.metromile.com:7999/met/rating-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.metromile.com:7999/met/quote-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.metromile.com:7999/met/quote-service-library-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.metromile.com:7999/met/frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.metromile.com:7999/res/config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\samuel\workspace\melostat\metromile" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
   </component>
 </application>
