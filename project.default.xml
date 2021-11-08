@@ -1,15 +1,9 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="GradleLocalSettings">
-        <option name="projectSyncType">
-          <map>
-            <entry key="D:/Users/Samuel/workspace/mocha" value="PREVIEW" />
-          </map>
-        </option>
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="ThriftCompiler">
+        <compilers />
       </component>
     </defaultProject>
   </component>

@@ -1,16 +1,5 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForClassTypes" />
-    <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForInterfaceTypes" />
-    <EXCLUDED_PACKAGE NAME="org.assertj.core.api.Java6Assertions.assertThat" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
-  </component>
   <component name="EditorSettings">
-    <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
-  </component>
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" /></component>
 </application>
